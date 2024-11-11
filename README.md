@@ -23,6 +23,7 @@ Write a function that takes a category name (e.g., "Electronics") and returns al
 
 <h1>Assesmnet -2</h1>
 Graded Assessment: MongoDB Scripts with Relationships
+
 Scenario Overview:
 You are working with an e-commerce platform. The platform has two collections:
 1.	Customers collection: Contains information about each customer.
